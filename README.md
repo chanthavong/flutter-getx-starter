@@ -19,4 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 - change theme
 - change language
 
-![home](images/cover.png)
+|image|image|
+|-----|-----|
+|![home](images/cover.png)|![home](images/g1.gif)|
